@@ -1,4 +1,4 @@
-# Portfolio-Clones-LinkedIn
+# LaunchPad-Clones-LinkedIn
 
 ## React - Redux - Firebase
 
